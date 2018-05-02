@@ -1,0 +1,219 @@
+
+body{
+    margin-top: 30px;
+}
+button{
+    border-radius: 20px !important;
+    
+}
+#imglogo{
+    margin-left: -523px;
+}
+nav {
+   
+    color: white;
+    background-color:#00754d;
+}
+
+.navbar-brand{
+    font-size: 16px;
+    margin-left:8px
+}
+
+h1 {
+    color:#005e3e;
+    font-weight: bold;
+    text-align: center;
+}
+span{
+    color:#005e3e;
+    font-weight: bold;
+}
+.date{
+    color:#666666
+}
+ .btn-outline-secondary{
+    background-color:white ;
+    color: #005e3e;
+}
+#dos{
+    text-align: center;
+    
+}
+a{
+    color: #005e3e;
+    
+}
+.texto{
+    color:#005e3e;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1,2em;
+
+}
+#columnas{
+    border: solid 0.5px grey;
+}
+.busqueda{
+    text-align: center;
+    font-size: 15px;
+    
+}
+.texto{
+    color:#33333b;
+    font-size: 17px;
+}
+
+#supermercadosApp {
+    font-family: Roboto;
+    text-align: center;
+}
+h2{
+    font-size: 20px;
+
+}
+
+.busquedaInput {
+    border-bottom-left-radius: 2em;
+    border-top-left-radius: 2em;
+    
+    padding: .7em 2em;
+    border-style: none;
+    box-shadow: -0.2em 0 1em 0 #aaa;
+    width: 280px;
+    vertical-align: middle;
+    height: 100%;
+}
+
+.busquedaBoton {
+    border-bottom-right-radius: 2em;
+    border-top-right-radius: 2em;
+    background-color: #00754d;
+    color: #fff;
+    text-decoration: none;
+    padding: .7em 1.7em;
+    display: table-cell;
+    box-shadow: 0.2em 0 1em 0 #aaa;
+    vertical-align: middle;
+    height: 100%;
+    border: none;
+}
+
+button, html input[type="button"], input[type="reset"], input[type="submit"] {
+    -webkit-appearance: button;
+    cursor: pointer;
+}
+h3{
+    color:#005e3e;
+    text-align: center;
+}  
+body {
+    font-family: "DroidSerif";
+ }
+.consejo{
+    font-size: 1,15em;
+}
+
+.col1-xs-12{
+    background-color: #218050;
+}
+.col2-xs-12{
+    background-color: #17633d;
+}
+#blanco{
+    color: white !important;
+    
+}
+.salaPrensaHome{
+    color:white;
+    
+    padding-bottom: 30px;
+    padding-top: 30px;
+ text-align: center;
+
+}
+.atencion{
+    color:white;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+ text-align: center;
+  
+
+}
+.row{
+    margin-right: 0px;
+    text-align: center;
+    
+}
+h3>i{
+    font-size: 44px;
+}
+#ofertas{
+   text-align: center;
+   font-size: 20px;
+   font-size: 1.15em;
+    margin-bottom: 40px; 
+    color: #005e3e;
+  
+}
+#centrate{
+      text-align: center;      
+} 
+
+#centrate>.btn-outline-secondary{
+    font-size: 18px;
+    font-weight: bold;
+}  
+#mercadona{
+    text-align: center;
+    
+}
+footer{
+    background-color: #00754d;
+
+    line-height:12px;
+}
+.nav-link{
+    color: white;
+}
+#negrita{
+    font-weight: bold;
+    font-size: 19px;
+    
+
+}
+
+.salaPrensaHome p{
+    margin-top: -36px;
+
+}
+#total:hover {
+    background-color: #00754D;
+    color: #ffffff;
+}
+#conjunto:hover{
+    background-color:#eeeeee;
+    color: #00754D;
+}
+#rojo:hover{
+    background-color:#00754D;
+    border: #00754D;
+}
+footer .col{
+    text-align: justify;
+    
+}
+footer  a{
+    font-size: 15px;
+}
+#iconos {
+    font-size: 14px;
+    margin-left: -32px;
+    margin-right: 18px;
+    
+}
+#medio{
+    border-radius: 0px;
+    
+}
